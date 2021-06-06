@@ -1,0 +1,11 @@
+{
+	"name" : "Drop in Name",
+	"author" : "Name, Company",
+	"version" : "1.0",
+	"description" : "About the Drop in",
+	"dropin_url" : "",
+	"author_url" : "",
+	"settings_url" : "index.php",
+	"icon" : "dashicons-warning",
+	"colors" : "#2e2e2e, #549948"
+}
